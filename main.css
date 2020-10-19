@@ -1,0 +1,32 @@
+body {
+  margin: 10px auto;
+  max-width: 1000px;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1;
+padding: 20px 30px;
+  text-align: center;
+}
+
+h1 {
+  padding: 20px 0px 10px 0px;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: left;
+}
+
+h4 {
+  text-align: left;
+}
+
+h5 {
+  text-align: center;
+}
+
+p {
+  text-align:left;
+}
